@@ -4,5 +4,5 @@ __pycache__/
 .venv/
 vectorstore/
 RAG_TECHNIQUES/
-ds_store/
+.DS_Store
 
