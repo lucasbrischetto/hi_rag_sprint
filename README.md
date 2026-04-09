@@ -12,4 +12,5 @@ modifications including:
 - Multi-document PDF loading with metadata preservation
 - Persistent vectorstore with automatic change detection
 - Source citation in responses
-- Restricted to document-grounded answers only
+- Restricted to document-grounded answers only    
+
